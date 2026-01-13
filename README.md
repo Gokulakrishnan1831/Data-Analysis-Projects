@@ -8,11 +8,11 @@ A small portfolio of end-to-end analytics projects using **SQL**, **Excel**, and
 
 Each folder is a standalone project with its own analysis assets (queries, datasets/inputs if included, and/or dashboard/report files).
 
-- `India Credit Spend SQL Dynamics/` :contentReference[oaicite:1]{index=1}  
-- `Omni-Channel Consumer Ecosystem Analysis/` :contentReference[oaicite:2]{index=2}  
-- `Urban Mobility & Market Shift Analysis/` :contentReference[oaicite:3]{index=3}  
+- `India Credit Spend SQL Dynamics/` 
+- `Omni-Channel Consumer Ecosystem Analysis/`
+- `Urban Mobility & Market Shift Analysis/` 
 
-> Branch: `master` :contentReference[oaicite:4]{index=4}
+> Branch: `master`
 
 ---
 
@@ -68,16 +68,6 @@ Each folder is a standalone project with its own analysis assets (queries, datas
 5. For **Excel**: open the workbook and review pivot tables / dashboards.
 
 > If datasets aren’t included in a folder, the project can still be reviewed via queries, measures, and dashboard/report logic.
-
----
-
-## About me
-
-**Gokulakrishnan S**  
-- LinkedIn: https://linkedin.com/in/mr-gokulakrishnan-s  
-- GitHub: https://github.com/Gokulakrishnan1831
-
----
 
 ## License
 
