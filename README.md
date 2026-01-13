@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-A small portfolio of end-to-end analytics projects using **SQL**, **Excel**, and **Power BI**—focused on data cleaning, transformation, KPI reporting, and business insights. :contentReference[oaicite:0]{index=0}
+A small portfolio of end-to-end analytics projects using **SQL**, **Excel**, and **Power BI**—focused on data cleaning, transformation, KPI reporting, and business insights.
 
 ---
 
